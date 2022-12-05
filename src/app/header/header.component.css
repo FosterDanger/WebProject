@@ -1,0 +1,23 @@
+
+.tool{
+  background-color: #01AD49;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  text-transform: uppercase;
+  font-weight: 600;
+  text-shadow: 2px 2px rgb(231, 231, 231,0.35);
+  height: 53px;
+}
+
+.imgLogo{
+  width: 120px;
+  margin-left: 20px;
+}
+
+.buttonPosition{
+  margin-right: 15px;
+}
+
+.fill {
+  flex: 1 1 auto;
+}

@@ -1,0 +1,109 @@
+
+mat-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 85px;
+  height: 140px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  justify-content: center;
+}
+
+.icon{
+  width: 38.477px;
+  height: 67.557px;
+}
+
+.content{
+  width: 38.477px;
+  height: 67.557px;
+}
+
+.content1{
+  width: 50.524px;
+  height: 67.055px;
+}
+
+.content2{
+  width: 47.524px;
+  height: 64.055px;
+}
+
+.icon2{
+  width: 47.524px;
+  height: 64.055px;
+}
+
+.content3{
+
+  height: 64.055px;
+}
+
+.icon3{
+
+  height: 64.055px;
+}
+
+.content4{
+
+  width: 55.524px;
+  height: 67.055px;
+}
+
+.icon4{
+
+  width: 55.524px;
+  height: 67.055px;
+}
+
+
+button{
+  background-color: #888686;
+  width: 27px;
+  height: 27px;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  margin-top: 8px;
+  }
+
+  label{
+  color: #000; /* Fallback for older browsers */
+  color: rgba(0, 0, 0, 0.6);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  }
+
+  .Title{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4D4D4D;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-shadow: 2px 3px rgb(189,189,189,0.3);
+  }
+
+  .Title2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4D4D4D;
+    font-size: 10px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+  }
+
+
+
+
